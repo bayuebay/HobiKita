@@ -40,7 +40,7 @@ public class ImageListFragment extends Fragment {
 
     public static final String STRING_IMAGE_URI = "ImageUri";
     public static final String STRING_IMAGE_POSITION = "ImagePosition";
-    private static MainActivity mActivity; //aa
+    private static MainActivity mActivity; //aaaa
 
     //empty
     @Override
