@@ -42,6 +42,7 @@ public class ImageListFragment extends Fragment {
     public static final String STRING_IMAGE_POSITION = "ImagePosition";
     private static MainActivity mActivity;
 
+    //empty
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
