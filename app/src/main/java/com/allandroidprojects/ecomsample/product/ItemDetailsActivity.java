@@ -44,7 +44,7 @@ public class ItemDetailsActivity extends AppCompatActivity {
             }
         });
 
-        textViewAddToCart.setOnClickListener(new View.OnClickListener() {
+/*       textViewAddToCart.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 ImageUrlUtils imageUrlUtils = new ImageUrlUtils();
@@ -66,6 +66,6 @@ public class ItemDetailsActivity extends AppCompatActivity {
 
             }
         });
-
+*/
     }
 }

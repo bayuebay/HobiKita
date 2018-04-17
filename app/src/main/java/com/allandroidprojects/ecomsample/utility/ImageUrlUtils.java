@@ -125,6 +125,7 @@ public class ImageUrlUtils {
         String[] urls = new String[]{
                 "http://4.bp.blogspot.com/-RR5_KZZayZ4/TWMo0BZjBzI/AAAAAAAAALQ/9FHPEVwV2LY/s1600/PAMFLET-BLOG.jpg",
                 "https://event.ceritamedan.com/wp-content/uploads/2016/11/Mice-Medan-Futsal-CUP-2017.jpg",
+                "https://i.pinimg.com/originals/b9/7e/12/b97e12c8a7e273ca0221bbe782899b01.jpg",
         };
         return urls;
     }
