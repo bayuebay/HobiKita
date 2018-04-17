@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HobiKita.iml" filepath="$PROJECT_DIR$/HobiKita.iml" />
+      <module fileurl="file://C:\Users\boncelius\Downloads\HobiKita\HobiKita.iml" filepath="C:\Users\boncelius\Downloads\HobiKita\HobiKita.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\boncelius\Downloads\HobiKita\app\app.iml" filepath="C:\Users\boncelius\Downloads\HobiKita\app\app.iml" />
     </modules>
   </component>
 </project>

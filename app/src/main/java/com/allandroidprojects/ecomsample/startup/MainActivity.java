@@ -147,7 +147,6 @@ public class MainActivity extends AppCompatActivity
         fragment.setArguments(bundle);
         adapter.addFragment(fragment, getString(R.string.item_3));
         fragment = new ImageListFragment();
-        bundle = new Bundle();
         viewPager.setAdapter(adapter);
     }
 
