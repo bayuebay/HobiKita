@@ -17,7 +17,7 @@ public class Login extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
     }
-
+//onlick login
     public void login(View view) {
        user = (EditText)findViewById(R.id.id);
         pass = (EditText)findViewById(R.id.passwd);
